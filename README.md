@@ -1,6 +1,8 @@
-# <h1 align="center">Hi 👋, I'm V Sanjana Devi</h1>  
-<h3 align="center">Tech Explorer | Web Developer | MERN Stack | DSA | Curious & Evolving</h3>
+# <h1 align="center">Hi 👋, I'm Sanjana Devi</h1>  
+<h5 align="center">Tech Explorer | Web Developer | MERN Stack | DSA | Curious & Evolving</h5>
 
+
+---
 🎓 Information Science & Engineering student with a strong foundation in software development, web technologies, and machine learning. Passionate about building impactful solutions and contributing to innovative projects.  
 
 ---

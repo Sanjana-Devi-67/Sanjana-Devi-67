@@ -3,13 +3,13 @@
 
 
 ---
-🎓 Information Science & Engineering student with a strong foundation in software development, web technologies, and machine learning. Passionate about building impactful solutions and contributing to innovative projects.  
+🎓 Information Science & Engineering student with a strong foundation in software development, DSA and web technologies. Passionate about building impactful solutions and contributing to innovative projects.  
 
 ---
 
 ## 🚀 About Me
-- 🌱 Exploring **Full Stack Development, Machine Learning, and DevOps practices**.  
-- 💡 Interested in **AI/ML, Web Development, and Problem Solving**.  
+- 🌱 Exploring **Full Stack Development, Machine Learning, Problem Solving and DevOps practices**.  
+- 💡 Interested in **AI/ML, Web Development,DSA and Problem Solving**.  
 - 🎯 Goal: To innovate and deliver impactful real-world solutions.  
 
 ---

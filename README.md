@@ -44,6 +44,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-Devi-67&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
 </p>
 
-
+---
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanjana-devi-5712a130a/)  
+- 🖥️ [GitHub](https://github.com/Sanjana-Devi-67)  
+- 📧 Email: **sanjanadevi.vksy@gmail.com**
+  
 ---
 ⭐️ *“Driven by curiosity, fueled by learning, and committed to building meaningful solutions.”*  

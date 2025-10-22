@@ -27,9 +27,10 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MERN Stack](https://img.shields.io/badge/MERN%20Stack-000000?style=flat&logo=mongodb&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -38,8 +39,11 @@
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=flat&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=orange)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-025E8C?style=flat&logo=leetcode&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack-000000?style=flat&logo=mongodb&logoColor=61DAFB)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F61?style=flat&logo=restapi&logoColor=white)
+
 </p>
+
 
 
 ---

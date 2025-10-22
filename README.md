@@ -38,7 +38,7 @@
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=flat&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=orange)
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-025E8C?style=flat&logo=leetcode&logoColor=white)
-
+![MERN Stack](https://img.shields.io/badge/MERN%20Stack-000000?style=flat&logo=mongodb&logoColor=61DAFB)
 </p>
 
 

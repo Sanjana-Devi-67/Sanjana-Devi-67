@@ -33,7 +33,14 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=flat&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=orange)
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-025E8C?style=flat&logo=leetcode&logoColor=white)
+
 </p>
+
 
 ---
 ## 📊 GitHub Stats  

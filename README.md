@@ -50,6 +50,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Sanjana-Devi-67&theme=radical&hide_border=true)
   <img src="https://github-readme-stats.vercel.app/api?username=Sanjana-Devi-67&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-Devi-67&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
 </p>

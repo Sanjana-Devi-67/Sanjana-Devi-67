@@ -51,8 +51,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanjana-Devi-67&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjana-Devi-67&theme=radical&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Sanjana-Devi-67&theme=radical&hide_border=true" height="150"/>
 </p>
+
 
 ---
 ## 📫 Connect With Me

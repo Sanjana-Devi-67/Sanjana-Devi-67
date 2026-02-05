@@ -49,13 +49,20 @@
 ---
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats-tawny-alpha-14.vercel.app/api?username=Sanjana-Devi-67&include_all_commits=true&count_private=true&hide=prs,issues,stars,contribs&custom_title=Total%20Commits&theme=radical&hide_border=true" height="160"/>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-tawny-alpha-14.vercel.app/api?username=Sanjana-Devi-67&include_all_commits=true&count_private=true&hide=prs,issues,stars,contribs&custom_title=Total%20Commits&theme=radical&hide_border=true" width="320"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-tawny-alpha-14.vercel.app/api?username=Sanjana-Devi-67&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" width="320"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-tawny-alpha-14.vercel.app/api/top-langs/?username=Sanjana-Devi-67&layout=compact&theme=radical&hide_border=true" width="320"/>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-stats-tawny-alpha-14.vercel.app/api?username=Sanjana-Devi-67&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="160"/>
-
-  <img src="https://github-readme-stats-tawny-alpha-14.vercel.app/api/top-langs/?username=Sanjana-Devi-67&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
 
 
 

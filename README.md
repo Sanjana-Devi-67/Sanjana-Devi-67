@@ -49,7 +49,11 @@
 ---
 ## 📊 GitHub Stats  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sanjana-Devi-67&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana-Devi-67&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats-tawny-alpha-14.vercel.app/api?username=Sanjana-Devi-67&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-tawny-alpha-14.vercel.app/api/top-langs/?username=Sanjana-Devi-67&layout=compact&theme=radical&hide_border=true" height="150"/>
+</p>
+
 
 
 ---
